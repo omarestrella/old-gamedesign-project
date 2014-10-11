@@ -1,0 +1,40 @@
+{
+	"objects": [
+		{
+			"type": "player",
+			"position": [160, 60],
+			"id": "player",
+			"dimensions": [15]
+		},
+		{
+			"type": "platform",
+			"position": [160, 230],
+			"dimensions": [300, 5],
+			"id": "startingPlatform"
+		},
+		{
+			"type": "platform",
+			"position": [70, 210],
+			"dimensions": [100, 5],
+			"id": "platform1"
+		},
+		{
+			"type": "platform",
+			"position": [240, 210],
+			"dimensions": [40, 5],
+			"id": "platform2"
+		},
+		{
+			"type": "platform",
+			"position": [20, 170],
+			"dimensions": [50, 5],
+			"id": "platform3"
+		},
+		{
+			"type": "platform",
+			"position": [500, 230],
+			"dimensions": [300, 5],
+			"id": "platform4"
+		}
+	]
+}
